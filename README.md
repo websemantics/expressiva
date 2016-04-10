@@ -6,7 +6,7 @@ Variant ways to deliver meaning
 ```
 > Collection of resources for meaningful communication, featuring lists of expressive words, interjections, onomatopoeias and emotions/emoticons that are largely cross cultures and languages in different formats (text, image, sound).
 
-## Resources
+### Resources
 
 - [Corpora](https://github.com/dariusk/corpora): A collection of small corpuses of interesting data, i.e. [interjections](https://github.com/dariusk/corpora/blob/master/data/words/interjections.json), for the creation of bots and similar stuff.
 - [Japanese Emoticons](http://japaneseemoticons.me/): Lists of Japanese emoticon.
