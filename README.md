@@ -4,7 +4,7 @@
 |_|__ /_/ \ |_|   |_| \ |_|__ _)_) _)_) |_|  \_\/  /_/--\ 
 Variant ways to deliver meaning
 ```
-> Collection of resources for meaningful communication featuring lists of expressive words, interjections, onomatopoeias and emotions/emoticons that are largely cross cultures and languages in different formats (text, image, sound).
+> Collection of resources for meaningful communication, featuring lists of expressive words, interjections, onomatopoeias and emotions/emoticons that are largely cross cultures and languages in different formats (text, image, sound).
 
 ## Resources
 
