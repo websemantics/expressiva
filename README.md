@@ -1,2 +1,3 @@
-# onomatopoeia
-Meaningful list of expressive words and interjections that is cross cultures and language, .. 
+# Interjections
+
+Meaningful list of expressive words, onomatopoeias and interjections that is cross cultures and language
